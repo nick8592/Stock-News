@@ -2,6 +2,6 @@ Outlook
 Email: apireceiver@outlook.com
 Password: !@#QWE123
 
-Twillo
+Twilio
 Email: apireceiver@outlook.com
 Password: motwaj-Zewpi4-bodkat
